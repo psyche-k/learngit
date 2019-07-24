@@ -1,9 +1,10 @@
 git is a version control system
 
-<<<<<<< HEAD
-to fix
-
-readme.txt
-=======
-git is 2 version control system2
->>>>>>> dev
+1
+2
+3
+4
+5
+6
+7
+8
